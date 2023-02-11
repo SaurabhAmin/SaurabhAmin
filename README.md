@@ -1,3 +1,4 @@
+![logo](https://raw.githubusercontent.com/SaurabhAmin/SaurabhAmin/main/saurabh-amin-banner.jpg)
 <h1 align="center">Hi 👋, I'm Saurabh Amin</h1>
 <h3 align="center">A passionate full-stack developer from India...</h3>
 
